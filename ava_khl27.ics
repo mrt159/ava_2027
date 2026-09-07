@@ -7,605 +7,605 @@ X-WR-CALNAME:Авангард КХЛ 2026/2027
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
 UID:ava-khl27-001@avangard-calendar
-DTSTAMP:20260706T192133Z
-DTSTART:20260907T140000Z
-DTEND:20260907T163000Z
+DTSTAMP:20260823T234820Z
+DTSTART:20260907T133000Z
+DTEND:20260907T160000Z
 SUMMARY:Авангард — Салават Юлаев
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время подтверждено (hawk.ru/sportnet.live)
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-002@avangard-calendar
-DTSTAMP:20260706T192133Z
-DTSTART:20260910T140000Z
-DTEND:20260910T163000Z
+DTSTAMP:20260823T234820Z
+DTSTART:20260910T133000Z
+DTEND:20260910T160000Z
 SUMMARY:Авангард — ХК Сочи
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время подтверждено (hawk.ru/sportnet.live)
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-003@avangard-calendar
-DTSTAMP:20260706T192133Z
-DTSTART:20260913T140000Z
-DTEND:20260913T163000Z
+DTSTAMP:20260823T234820Z
+DTSTART:20260913T110000Z
+DTEND:20260913T133000Z
 SUMMARY:Авангард — Металлург Мг
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время подтверждено (hawk.ru/sportnet.live)
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-004@avangard-calendar
-DTSTAMP:20260706T192133Z
-DTSTART:20260915T140000Z
-DTEND:20260915T163000Z
+DTSTAMP:20260823T234820Z
+DTSTART:20260915T133000Z
+DTEND:20260915T160000Z
 SUMMARY:Авангард — Автомобилист
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время подтверждено (hawk.ru/sportnet.live)
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-005@avangard-calendar
-DTSTAMP:20260706T192133Z
-DTSTART:20260918T140000Z
-DTEND:20260918T163000Z
+DTSTAMP:20260823T234820Z
+DTSTART:20260918T163000Z
+DTEND:20260918T190000Z
 SUMMARY:Локомотив — Авангард
 LOCATION:Локомотив
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время подтверждено (hawk.ru/sportnet.live)
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-006@avangard-calendar
-DTSTAMP:20260706T192133Z
-DTSTART:20260920T140000Z
-DTEND:20260920T163000Z
+DTSTAMP:20260823T234820Z
+DTSTART:20260920T110000Z
+DTEND:20260920T133000Z
 SUMMARY:Трактор — Авангард
 LOCATION:Трактор
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время подтверждено (hawk.ru/sportnet.live)
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-007@avangard-calendar
-DTSTAMP:20260706T192133Z
-DTSTART:20260922T140000Z
-DTEND:20260922T163000Z
+DTSTAMP:20260823T234820Z
+DTSTART:20260922T160000Z
+DTEND:20260922T183000Z
 SUMMARY:Торпедо — Авангард
 LOCATION:Торпедо
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время подтверждено (hawk.ru/sportnet.live)
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-008@avangard-calendar
-DTSTAMP:20260706T192133Z
-DTSTART:20260924T140000Z
-DTEND:20260924T163000Z
+DTSTAMP:20260823T234820Z
+DTSTART:20260924T163000Z
+DTEND:20260924T190000Z
 SUMMARY:Спартак — Авангард
 LOCATION:Спартак
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время подтверждено (hawk.ru/sportnet.live)
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-009@avangard-calendar
-DTSTAMP:20260706T192133Z
-DTSTART:20260928T140000Z
-DTEND:20260928T163000Z
+DTSTAMP:20260823T234820Z
+DTSTART:20260928T133000Z
+DTEND:20260928T160000Z
 SUMMARY:Авангард — Металлург Мг
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время подтверждено (hawk.ru/sportnet.live)
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-010@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261002T140000Z
 DTEND:20261002T163000Z
 SUMMARY:Авангард — Лада
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-011@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261006T140000Z
 DTEND:20261006T163000Z
 SUMMARY:Автомобилист — Авангард
 LOCATION:Автомобилист
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-012@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261008T140000Z
 DTEND:20261008T163000Z
 SUMMARY:Нефтехимик — Авангард
 LOCATION:Нефтехимик
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-013@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261010T140000Z
 DTEND:20261010T163000Z
 SUMMARY:Барыс — Авангард
 LOCATION:Барыс
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-014@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261016T140000Z
 DTEND:20261016T163000Z
 SUMMARY:Авангард — Автомобилист
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-015@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261018T140000Z
 DTEND:20261018T163000Z
 SUMMARY:Авангард — Трактор
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-016@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261022T140000Z
 DTEND:20261022T163000Z
 SUMMARY:Авангард — Нефтехимик
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-017@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261026T150000Z
 DTEND:20261026T173000Z
 SUMMARY:Динамо М — Авангард
 LOCATION:Динамо М
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-018@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261028T150000Z
 DTEND:20261028T173000Z
 SUMMARY:Ак Барс — Авангард
 LOCATION:Ак Барс
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-019@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261030T150000Z
 DTEND:20261030T173000Z
 SUMMARY:Лада — Авангард
 LOCATION:Лада
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-020@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261101T150000Z
 DTEND:20261101T173000Z
 SUMMARY:ХК Сочи — Авангард
 LOCATION:ХК Сочи
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-021@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261105T150000Z
 DTEND:20261105T173000Z
 SUMMARY:Авангард — ЦСКА
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-022@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261107T150000Z
 DTEND:20261107T173000Z
 SUMMARY:Авангард — Сибирь
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-023@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261110T150000Z
 DTEND:20261110T173000Z
 SUMMARY:Динамо Мн — Авангард
 LOCATION:Динамо Мн
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-024@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261112T150000Z
 DTEND:20261112T173000Z
 SUMMARY:Металлург Мг — Авангард
 LOCATION:Металлург Мг
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-025@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261114T150000Z
 DTEND:20261114T173000Z
 SUMMARY:Нефтехимик — Авангард
 LOCATION:Нефтехимик
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-026@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261118T150000Z
 DTEND:20261118T173000Z
 SUMMARY:Авангард — Адмирал
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-027@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261120T150000Z
 DTEND:20261120T173000Z
 SUMMARY:Авангард — Барыс
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-028@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261122T150000Z
 DTEND:20261122T173000Z
 SUMMARY:Авангард — Ак Барс
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-029@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261126T150000Z
 DTEND:20261126T173000Z
 SUMMARY:Адмирал — Авангард
 LOCATION:Адмирал
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-030@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261128T150000Z
 DTEND:20261128T173000Z
 SUMMARY:Амур — Авангард
 LOCATION:Амур
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-031@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261202T150000Z
 DTEND:20261202T173000Z
 SUMMARY:Авангард — Спартак
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-032@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261206T150000Z
 DTEND:20261206T173000Z
 SUMMARY:Авангард — Амур
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-033@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261215T150000Z
 DTEND:20261215T173000Z
 SUMMARY:Авангард — Барыс
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-034@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261217T150000Z
 DTEND:20261217T173000Z
 SUMMARY:Авангард — СКА
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-035@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261219T150000Z
 DTEND:20261219T173000Z
 SUMMARY:Авангард — Трактор
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-036@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261223T150000Z
 DTEND:20261223T173000Z
 SUMMARY:Северсталь — Авангард
 LOCATION:Северсталь
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-037@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261225T150000Z
 DTEND:20261225T173000Z
 SUMMARY:Металлург Мг — Авангард
 LOCATION:Металлург Мг
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-038@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261227T150000Z
 DTEND:20261227T173000Z
 SUMMARY:Авангард — Динамо М
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-039@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20261229T150000Z
 DTEND:20261229T173000Z
 SUMMARY:Авангард — Нефтехимик
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-040@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270106T150000Z
 DTEND:20270106T173000Z
 SUMMARY:Авангард — Динамо Мн
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-041@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270108T150000Z
 DTEND:20270108T173000Z
 SUMMARY:Авангард — Салават Юлаев
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-042@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270111T150000Z
 DTEND:20270111T173000Z
 SUMMARY:Салават Юлаев — Авангард
 LOCATION:Салават Юлаев
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-043@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270113T150000Z
 DTEND:20270113T173000Z
 SUMMARY:СКА — Авангард
 LOCATION:СКА
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-044@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270115T150000Z
 DTEND:20270115T173000Z
 SUMMARY:ЦСКА — Авангард
 LOCATION:ЦСКА
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-045@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270117T150000Z
 DTEND:20270117T173000Z
 SUMMARY:Автомобилист — Авангард
 LOCATION:Автомобилист
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-046@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270121T150000Z
 DTEND:20270121T173000Z
 SUMMARY:Авангард — Сибирь
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-047@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270123T150000Z
 DTEND:20270123T173000Z
 SUMMARY:Авангард — Автомобилист
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-048@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270125T150000Z
 DTEND:20270125T173000Z
 SUMMARY:Авангард — Амур
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-049@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270129T150000Z
 DTEND:20270129T173000Z
 SUMMARY:Адмирал — Авангард
 LOCATION:Адмирал
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-050@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270131T150000Z
 DTEND:20270131T173000Z
 SUMMARY:Амур — Авангард
 LOCATION:Амур
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-051@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270202T150000Z
 DTEND:20270202T173000Z
 SUMMARY:Сибирь — Авангард
 LOCATION:Сибирь
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-052@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270209T150000Z
 DTEND:20270209T173000Z
 SUMMARY:Сибирь — Авангард
 LOCATION:Сибирь
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-053@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270211T150000Z
 DTEND:20270211T173000Z
 SUMMARY:Металлург Мг — Авангард
 LOCATION:Металлург Мг
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-054@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270213T150000Z
 DTEND:20270213T173000Z
 SUMMARY:Авангард — Северсталь
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-055@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270215T150000Z
 DTEND:20270215T173000Z
 SUMMARY:Авангард — Адмирал
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-056@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270218T150000Z
 DTEND:20270218T173000Z
 SUMMARY:Авангард — Локомотив
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-057@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270220T150000Z
 DTEND:20270220T173000Z
 SUMMARY:Авангард — Торпедо
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-058@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270224T150000Z
 DTEND:20270224T173000Z
 SUMMARY:Шанхайские Драконы — Авангард
 LOCATION:Шанхайские Драконы
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-059@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270226T150000Z
 DTEND:20270226T173000Z
 SUMMARY:Ак Барс — Авангард
 LOCATION:Ак Барс
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-060@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270228T150000Z
 DTEND:20270228T173000Z
 SUMMARY:Трактор — Авангард
 LOCATION:Трактор
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-061@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270302T150000Z
 DTEND:20270302T173000Z
 SUMMARY:Автомобилист — Авангард
 LOCATION:Автомобилист
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-062@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270305T150000Z
 DTEND:20270305T173000Z
 SUMMARY:Авангард — Металлург Мг
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-063@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270308T150000Z
 DTEND:20270308T173000Z
 SUMMARY:Авангард — Ак Барс
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-064@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270313T150000Z
 DTEND:20270313T173000Z
 SUMMARY:Трактор — Авангард
 LOCATION:Трактор
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-065@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270315T150000Z
 DTEND:20270315T173000Z
 SUMMARY:Салават Юлаев — Авангард
 LOCATION:Салават Юлаев
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-066@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270318T150000Z
 DTEND:20270318T173000Z
 SUMMARY:Авангард — Трактор
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 BEGIN:VEVENT
 UID:ava-khl27-067@avangard-calendar
-DTSTAMP:20260706T192133Z
+DTSTAMP:20260823T234820Z
 DTSTART:20270320T150000Z
 DTEND:20270320T173000Z
 SUMMARY:Авангард — Шанхайские Драконы
-LOCATION:Омск (Арена Омск)
-DESCRIPTION:КХЛ регулярный чемпионат 2026/2027
+LOCATION:Омск (G-Drive Арена)
+DESCRIPTION:КХЛ регулярный чемпионат 2026/2027. Время предварительное, уточняется ближе к матчу
 END:VEVENT
 END:VCALENDAR
